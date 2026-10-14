@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "name": "rent",
+        "amount": 10000.0,
+        "category": "Operating Expense",
+        "date": "10-10-2026"
+    }
+]
